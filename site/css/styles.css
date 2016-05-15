@@ -16,6 +16,11 @@ p {
   color: white;
 }
 
+.menutitle {
+  text-align: right;
+  
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
